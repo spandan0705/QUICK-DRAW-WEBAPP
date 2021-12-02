@@ -1,0 +1,21 @@
+body
+{
+    background-color: #53d926;
+}
+#score
+{
+    font-size: 22px;
+    float: left;
+    margin-left: 100px;
+}
+#timer
+{
+    font-size: 22px;
+    float: right;
+    margin-right: 100px;
+}
+#draw
+{
+    font-size: 20px;
+    color: darkcyan;
+}
